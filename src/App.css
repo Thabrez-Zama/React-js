@@ -1,10 +1,20 @@
 .App {
+  width:99%;
+  height:568px;
   text-align: center;
+ 
 }
+* > .card{
+  background-image: url("./bg3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+  background-color: white;
 }
 
 @media (prefers-reduced-motion: no-preference) {

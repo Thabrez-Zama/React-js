@@ -1,0 +1,104 @@
+{
+    "profiles":[
+        {
+            "basic":{
+                "name":"N.S.Thabrez Zama",
+                "role":"Student",
+                "Phone":"9502342333",
+                "email":"thabrez918@gmail.com"
+                
+
+            },
+            "career":"To become Software doveloper",
+            "head":
+            {
+              "name":"Name of the institute",
+              "degree":"Degree",
+              "year":"Year",
+              "percent":"Percentage"
+            },
+            "eduactionalqualification":
+                {
+                    "institute":"Madanapalle institute of Technology and Science",
+                    "degree":"B.tech",
+                    "passoutyear":"2021",
+                    "percentage":"85%"
+                },
+                "edu":
+                {
+                    "institute":"Bharathi junior college",
+                    "degree":"Intermediate",
+                    "passoutyear":"2017",
+                    "percentage":"97%" 
+                },
+                "education":
+                {
+                    "institute":"Universal school",
+                    "degree":"SSC",
+                    "passoutyear":"2015",
+                    "percentage":"93%" 
+                },
+                "techskills":
+                {
+                    "Pro":"C,Python,HTML,CSS,Java Script, Bootstrap",
+                    "data":"MongoDB",
+                    "operating":"Windows"
+                },
+                "Achievements":"Secured 1st prize at National Level Technical Symposium PHOTON'18 Organized by MITS ON 29th March 2018 on the Domain CHEMISTRY FOR MOLECULES TO MATERIALS FOR SUSTAINABLE FUTURE."
+
+                
+                
+                    
+        
+        },  
+
+        
+        {
+            "basic":{
+                "name":"N.S.Parvez Zama",
+                "role":"Student",
+                "Phone":"6304321115",
+                "email":"parvez918@gmail.com"
+        },
+        "career":"To become company CEO",
+        "head":
+        {
+          "name":"Name of the institute",
+          "degree":"Degree",
+          "year":"Year",
+          "percent":"Percentage"
+        },
+        "eduactionalqualification":
+            {
+                "institute":"Mother Teresa Institute of Technology",
+                "degree":"B.tech",
+                "passoutyear":"2021",
+                "percentage":"81%"
+            },
+            "edu":
+            {
+                "institute":"Vani junior college",
+                "degree":"Intermediate",
+                "passoutyear":"2017",
+                "percentage":"91%" 
+            },
+            "education":
+            {
+                "institute":"Little flower school",
+                "degree":"SSC",
+                "passoutyear":"2015",
+                "percentage":"98%" 
+            },
+            "techskills":
+                {
+                    "Pro":"C,Python,HTML,CSS,Java Script, Bootstrap",
+                    "data":"MongoDB",
+                    "operating":"Windows"
+                },
+                "Achievements":"Secured 1st prize in poster presentation held in our college"
+            
+                
+    }
+
+    ]
+}
